@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19961" started-at="2019-09-22T10:00:35Z" finished-at="2019-09-22T10:00:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19961" started-at="2019-09-22T10:00:35Z" finished-at="2019-09-22T10:00:55Z">
+      <class name="org.hex.Sep">
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:org.hex.Sep@1375618]" name="test1" duration-ms="19902" started-at="2019-09-22T10:00:35Z" finished-at="2019-09-22T10:00:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- org.hex.Sep -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
